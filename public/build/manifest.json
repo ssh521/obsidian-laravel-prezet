@@ -1,0 +1,18 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-BlO49A60.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/css/prezet.css": {
+    "file": "assets/prezet-w86P1L9A.css",
+    "src": "resources/css/prezet.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-Xaw6OIO1.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
