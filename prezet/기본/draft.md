@@ -1,6 +1,7 @@
 ---
-title: 제목을 작성하세요.
-excerpt: 파일 내용을 요약하세요.
+title: 
+excerpt: 
+category: 
 date: 2024-12-20
 draft: true
 ---

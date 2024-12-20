@@ -1,5 +1,6 @@
 ## 🎉 기본세팅
 
+- [Obsidian Web](content/Obsidian)
 - [Route 세팅하기](content/Route 세팅하기)
 - [second](content/second)
 - [tree](content/tree)

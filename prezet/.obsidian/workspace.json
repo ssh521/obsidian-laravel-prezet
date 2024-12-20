@@ -1,53 +1,68 @@
 {
   "main": {
-    "id": "542774b717f842f7",
+    "id": "d7f6da8ea41d4579",
     "type": "split",
     "children": [
       {
-        "id": "2072d41b66095fe7",
+        "id": "9e212254c4046367",
         "type": "tabs",
         "children": [
           {
-            "id": "40178021da5c5d71",
+            "id": "9bcc60719efbe19c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "content/Synology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "무제 파일"
+              "title": "Synology"
+            }
+          },
+          {
+            "id": "1b4bc05c3a7ca8a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Synology Container Manager.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Synology Container Manager"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "084804bc45881f82",
+    "id": "b6e424c37dd61cbc",
     "type": "split",
     "children": [
       {
-        "id": "75e561982db01945",
+        "id": "63a3a82a11478c6f",
         "type": "tabs",
         "children": [
           {
-            "id": "3aba5dd53b1053d7",
+            "id": "bc2139ac5fd1c491",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
             }
           },
           {
-            "id": "51a18e388dfce489",
+            "id": "74b09a53cb4e1f0d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +79,7 @@
             }
           },
           {
-            "id": "b22d23405f8db782",
+            "id": "a8c9ffae9db9d470",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,20 +95,20 @@
     "width": 300
   },
   "right": {
-    "id": "ed23fc9430747457",
+    "id": "314c6ed8739626a5",
     "type": "split",
     "children": [
       {
-        "id": "18c4d28c12d51ada",
+        "id": "09113b328e85fd50",
         "type": "tabs",
         "children": [
           {
-            "id": "5fd353f1053270f7",
+            "id": "9d6ed84e4b7272ab",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "content/시작하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,25 +118,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "무제 파일의 백링크"
+              "title": "시작하기의 백링크"
             }
           },
           {
-            "id": "f40501a1d6449048",
+            "id": "079f11be9131af26",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "content/시작하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "무제 파일의 나가는 링크"
+              "title": "시작하기의 나가는 링크"
             }
           },
           {
-            "id": "e80a459b2eb6582f",
+            "id": "01c0500e71589bf6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,15 +149,15 @@
             }
           },
           {
-            "id": "d64beeacea4fd5a6",
+            "id": "3685af51e10316fc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "content/시작하기.md"
               },
               "icon": "lucide-list",
-              "title": "무제 파일 개요"
+              "title": "시작하기 개요"
             }
           }
         ]
@@ -162,12 +177,36 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "40178021da5c5d71",
+  "active": "1b4bc05c3a7ca8a8",
   "lastOpenFiles": [
-    "content/draft.md",
+    "Pasted image 20241220234337.png",
+    "content/Synology.md",
+    "content/Synology Container Manager.md",
     "무제 파일.md",
     "기본/draft.md",
+    "images/Pasted image 20241220233933.png",
+    "content/index.md",
+    "content/features/markdown.md",
+    "content/Route 세팅하기.md",
+    "prezet.sqlite-journal",
+    "content/configuration.md",
+    "content/installation.md",
+    "content/Obsidian.md",
     "content/네번째 파일.md",
-    "Prezet/Welcome.md"
+    "content/second.md",
+    "content/tree.md",
+    "2024-12-20.md",
+    "content/draft.md",
+    "content/Obsidian > Laravel > Prezet.md",
+    "content/시작하기.md",
+    "content/두번째 파일입니다..md",
+    "content/두번째 파일입니다.md",
+    "seconde.md",
+    "2024-07-03.md",
+    "기본",
+    "content/features/frontmatter.md",
+    "content/features/blade.md",
+    "SUMMARY.md",
+    "prezet/Welcome.md"
   ]
 }
