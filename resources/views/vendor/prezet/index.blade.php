@@ -7,7 +7,7 @@
 
 <x-prezet::template>
     @seo([
-        'title' => 'Prezet: Markdown Blogging for Laravel',
+        'title' => 'Obsidian-Laravel',
         'description' =>
             'Transform your markdown files into SEO-friendly blogs, articles, and documentation!',
         'url' => route('prezet.index'),
@@ -21,7 +21,7 @@
                 <h1
                     class="font-display text-4xl font-bold tracking-tight text-gray-900"
                 >
-                    Prezet Blog
+                    Obsidian-Laravel
                 </h1>
 
                 <div class="justify-between sm:flex">

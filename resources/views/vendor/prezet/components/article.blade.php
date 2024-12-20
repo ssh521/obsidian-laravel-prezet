@@ -6,7 +6,7 @@
             <dt class="sr-only">Published on</dt>
             <dd class="text-base font-medium leading-6 text-gray-500">
                 <time datetime="{{ $article->createdAt->toIso8601String() }}">
-                    {{ $article->createdAt->format('F j, Y') }}
+                    {{ $article->createdAt->format('Y년 m월 d일') }}
                 </time>
             </dd>
         </dl>
