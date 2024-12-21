@@ -7,9 +7,9 @@
 
 <x-prezet::template>
     @seo([
-        'title' => 'Obsidian-Laravel',
+        'title' => 'Obsidian-Laravel-Prezet',
         'description' =>
-            'Transform your markdown files into SEO-friendly blogs, articles, and documentation!',
+            '마크다운 파일을 SEO 친화적인 블로그, 아티클, 문서로 변환하세요!',
         'url' => route('prezet.index'),
     ])
     <x-slot name="left">
@@ -26,7 +26,8 @@
 
                 <div class="justify-between sm:flex">
                     <p class="text-lg leading-7 text-gray-500">
-                        Obsidian 으로 작성하고 Laravel 로 웹 사이트를 작성하고 Synology NAS 로 웹 서비스를 제공한다.
+                        Obsidian로 마크다운 문서를 작성하고, Laravel Framework 를 이용해서 웹사이트로 공개하고 있습니다.<br>
+                        본 사이트는 KT 고정IP 로 세팅된 Synology NAS 에서 서비스 되고 있습니다.
                     </p>
                     <div class="mt-4 block sm:mt-0">
                         @if ($currentTag)
