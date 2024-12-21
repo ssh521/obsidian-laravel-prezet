@@ -8,7 +8,6 @@ https://prezet.com/
 ## 참고
 https://prezet.com/docs/installation/
 
-
 ## 설치순서
 
 1. git clone https://github.com/ssh521/obsidian-laravel-prezet
@@ -32,6 +31,6 @@ php artisan prezet:index
 2. 보관소 폴더 열기
 3. prezet 폴더 열기
 
+## 데모사이트
 
-
-
+[https://obsidian.yaver.com](https://obsidian.yaver.com)

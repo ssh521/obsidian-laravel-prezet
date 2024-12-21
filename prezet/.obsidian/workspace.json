@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Synology.md",
+                "file": "content/Route 세팅하기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Synology"
-            }
-          },
-          {
-            "id": "1b4bc05c3a7ca8a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Synology Container Manager.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Synology Container Manager"
+              "title": "Route 세팅하기"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,36 +162,44 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1b4bc05c3a7ca8a8",
+  "active": "9bcc60719efbe19c",
   "lastOpenFiles": [
-    "Pasted image 20241220234337.png",
-    "content/Synology.md",
-    "content/Synology Container Manager.md",
-    "무제 파일.md",
+    "prezet.sqlite-journal",
+    "SUMMARY.md",
+    "content/Laravel-Prezet.md",
+    "content/SynologyWebStation.md",
+    "content/Synology+Laravel+Obsidian+Prezet 1.md",
+    "content/SynologyContainer.md",
+    "content/Obsidian.md",
+    "content/Route 세팅하기.md",
     "기본/draft.md",
-    "images/Pasted image 20241220233933.png",
+    "content/Synology.md",
+    "().md",
+    "images/Pasted image 20241221142233.png",
+    "2024-12-20.md",
+    "images/Pasted image 20241221141938.png",
+    "images/Pasted image 20241221141450.png",
+    "images/Pasted image 20241221140045.png",
+    "images/Pasted image 20241221135935.png",
+    "images/Pasted image 20241221135805.png",
+    "images/Pasted image 20241221135403.png",
+    "images/Pasted image 20241221135400.png",
+    "images/Pasted image 20241221135353.png",
+    "images/Pasted image 20241221135349.png",
+    "content/second.md",
+    "content/configuration.md",
+    "content/네번째 파일.md",
+    "무제 파일.md",
     "content/index.md",
     "content/features/markdown.md",
-    "content/Route 세팅하기.md",
-    "prezet.sqlite-journal",
-    "content/configuration.md",
     "content/installation.md",
-    "content/Obsidian.md",
-    "content/네번째 파일.md",
-    "content/second.md",
     "content/tree.md",
-    "2024-12-20.md",
     "content/draft.md",
     "content/Obsidian > Laravel > Prezet.md",
     "content/시작하기.md",
     "content/두번째 파일입니다..md",
     "content/두번째 파일입니다.md",
     "seconde.md",
-    "2024-07-03.md",
-    "기본",
-    "content/features/frontmatter.md",
-    "content/features/blade.md",
-    "SUMMARY.md",
-    "prezet/Welcome.md"
+    "기본"
   ]
 }

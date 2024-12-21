@@ -21,12 +21,12 @@
                 <h1
                     class="font-display text-4xl font-bold tracking-tight text-gray-900"
                 >
-                    Obsidian-Laravel
+                    Obsidian Blog
                 </h1>
 
                 <div class="justify-between sm:flex">
                     <p class="text-lg leading-7 text-gray-500">
-                        A blog created with Laravel and Tailwind.css
+                        Obsidian 으로 작성하고 Laravel 로 웹 사이트를 작성하고 Synology NAS 로 웹 서비스를 제공한다.
                     </p>
                     <div class="mt-4 block sm:mt-0">
                         @if ($currentTag)

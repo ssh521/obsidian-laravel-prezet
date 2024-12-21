@@ -41,7 +41,7 @@
         <a
             class="group"
             aria-label="GitHub"
-            href="https://github.com/benbjurstrom/prezet"
+            href="https://github.com/ssh521/obsidian-laravel-prezet"
             target="_blank"
         >
             <svg
