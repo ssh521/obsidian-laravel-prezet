@@ -1,13 +1,12 @@
 ---
 title: 옵시디언 Blog 만들기
-slug: 옵시디언 Blog 만들기
 excerpt: 옵시디언에서 작성된 마크다운 파일을 Laravel 을 이용해서 웹사이트를 만드는 방법을 소개한다.
+category: Obsidian
 date: 2024-12-20
 draft: false
-category: Obsidian
-tags:
-  - obsidian
+tags: [obsidian]
 image: /prezet/img/ogimages/obsidian.webp
+slug: 옵시디언 Blog 만들기
 ---
 
 > 옵시디언에서 작성된 마크다운 파일을 Laravel 을 이용해서 웹사이트를 만드는 방법을 소개한다.

@@ -7,10 +7,11 @@
 
 <x-prezet::template>
     @seo([
-        'title' => 'Obsidian-Laravel-Prezet',
+        'title' => 'Obsidian 블로그 만들기',
         'description' =>
             '마크다운 파일을 SEO 친화적인 블로그, 아티클, 문서로 변환하세요!',
         'url' => route('prezet.index'),
+        'image' => asset('/prezet/img/ogimages/obsidian.webp'),
     ])
     <x-slot name="left">
         <x-prezet::sidebar :nav="$nav" />
@@ -86,4 +87,6 @@
             </div>
         </div>
     </section>
+
+    <x-prezet::footer />
 </x-prezet::template>

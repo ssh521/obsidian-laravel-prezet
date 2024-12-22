@@ -4,7 +4,7 @@
     <div class="relative flex flex-grow basis-0 items-center">
         <button
             aria-label="Menu"
-            class="mr-4 rounded-lg p-1.5 hover:bg-gray-100 active:bg-gray-200 lg:hidden"
+            class="mr-2 rounded-lg p-1.5 hover:bg-gray-100 active:bg-gray-200 lg:hidden"
             x-on:click="showSidebar = ! showSidebar"
         >
             <svg

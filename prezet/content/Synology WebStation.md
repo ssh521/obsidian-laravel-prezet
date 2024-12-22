@@ -1,7 +1,7 @@
 ---
 title: Synology WebStation
 excerpt: Synology 서버에 Obsidian 웹사이트를 설정한다.
-category: 기본세팅
+category: 기본세팅
 date: 2024-12-21
 draft: false
 image: /prezet/img/ogimages/synology-webstation.webp

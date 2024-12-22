@@ -36,6 +36,8 @@
             {!! $body !!}
         </div>
     </article>
+    
+    <x-prezet::footer />
 
     {{-- Right Sidebar --}}
     <x-slot name="right">
@@ -86,4 +88,8 @@
             </nav>
         </div>
     </x-slot>
+
+
+
 </x-prezet::template>
+

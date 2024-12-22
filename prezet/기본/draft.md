@@ -2,20 +2,18 @@
 title: 
 excerpt: 
 category: 
-date: 2024-12-20
-tags: 
+date: 2024-12-22
 draft: true
 ---
 
 ## 제목을 작성하세요..
 
-간단한 설명입니다.
+간단한 내용을 입력합니다.
 
-```yaml
----
-title: ''
-date: YYYY-MM-DD
-category: ''
-excerpt: ''
----
-```
+### 1. 중간 제목
+
+- 내용1
+- 내용2
+
+### 2. 중간 제목
+

@@ -1,17 +1,22 @@
 ---
-title: Synology WebStation
+title: Laravel-Prezet
 excerpt: 옵시디언에서 작성된 마크다운 파일을 Laravel 을 이용해서 웹사이트를 만드는 방법을 소개한다.
 category: 기본세팅
 date: 2024-12-21
 draft: false
 image: /prezet/img/ogimages/laravel-prezet.webp
+tags: [prezet]
 ---
 
 ## Prezet Package 추가하기
 
+Laravel 에 Prezet 패키지를 설치한다.
+
+[https://prezet.com/](https://prezet.com/)
 
 ### 1. 컨테이너에서 터미널 열기
-   
+
+컨테이너에서 터미널 열기를 클릭한다.
    ![Pasted image 20241221142233.png](Pasted%20image%2020241221142233.png)
 ### 2. prezet 추가하기
 
@@ -26,14 +31,21 @@ php artisan prezet:install
 
 ### 3. Meta 태그 추가
 
+template.blade.php 의 경로
+```php
 resources/views/vendor/prezet/components/template.blade.php
-   
+```
+
 헤더에 다음을 추가해야 함.
 ```html
 <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
 ```
 
 ### 4. 라우터 수정
+
+기본 URL : www.example.com/perzet
+
+기본 URL 을 root 경로로 변경한다. 필요에 따라서 별도 경로를 만들어서 사용하면 된다.
 
 routes/prezet.php
 ```php

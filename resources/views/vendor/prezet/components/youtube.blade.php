@@ -1,4 +1,11 @@
 @php
+    if (!isset($attributes['videoid'])) {
+        throw new \InvalidArgumentException('The videoid attribute is required.');
+    }
+    if (!isset($attributes['title'])) {
+        throw new \InvalidArgumentException('The title attribute is required.');
+    }
+
     $ytData = new \BenBjurstrom\Prezet\Data\YoutubeData($attributes->getAttributes());
 @endphp
 
@@ -13,9 +20,4 @@
         </a>
     </lite-youtube>
 
-    <script
-        type="application/ld+json"
-    >
-        {!! json_encode($ytData->toArray(), JSON_UNESCAPED_SLASHES) !!}
-    </script>
 </div>
