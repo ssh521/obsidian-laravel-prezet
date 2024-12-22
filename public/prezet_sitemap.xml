@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
     <url>
-        <loc>http://127.0.0.1:8000/Laravel-Prezet</loc>
+        <loc>http://obsidian.test/Laravel-Prezet</loc>
         <lastmod>2024-12-21T23:56:01+00:00</lastmod>
 
             </url>
     <url>
-        <loc>http://127.0.0.1:8000/Synology%20Container</loc>
+        <loc>http://obsidian.test/Synology%20Container</loc>
         <lastmod>2024-12-21T23:56:03+00:00</lastmod>
 
             </url>
     <url>
-        <loc>http://127.0.0.1:8000/Synology%20WebStation</loc>
+        <loc>http://obsidian.test/Synology%20WebStation</loc>
         <lastmod>2024-12-21T23:56:04+00:00</lastmod>
 
             </url>
     <url>
-        <loc>http://127.0.0.1:8000/Synology+Laravel+Obsidian+Prezet%201</loc>
+        <loc>http://obsidian.test/Synology+Laravel+Obsidian+Prezet%201</loc>
         <lastmod>2024-12-21T23:56:06+00:00</lastmod>
 
             </url>
     <url>
-        <loc>http://127.0.0.1:8000/OGImage</loc>
+        <loc>http://obsidian.test/OGImage</loc>
         <lastmod>2024-12-21T23:56:07+00:00</lastmod>
 
             </url>
     <url>
-        <loc>http://127.0.0.1:8000/Obsidian</loc>
-        <lastmod>2024-12-21T23:59:08+00:00</lastmod>
+        <loc>http://obsidian.test/Obsidian</loc>
+        <lastmod>2024-12-22T00:09:58+00:00</lastmod>
 
             </url>
     <url>
-        <loc>http://127.0.0.1:8000/Route%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0</loc>
+        <loc>http://obsidian.test/Route%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0</loc>
         <lastmod>2024-12-21T23:56:11+00:00</lastmod>
 
             </url>
