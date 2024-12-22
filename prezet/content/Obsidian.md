@@ -1,12 +1,26 @@
 ---
-title: 옵시디언 웹사이트
+title: 옵시디언 Blog 만들기
+slug: 옵시디언 Blog 만들기
 excerpt: 옵시디언에서 작성된 마크다운 파일을 Laravel 을 이용해서 웹사이트를 만드는 방법을 소개한다.
 date: 2024-12-20
 draft: false
 category: Obsidian
+tags:
+  - obsidian
+image: /prezet/img/ogimages/obsidian.webp
 ---
+
 > 옵시디언에서 작성된 마크다운 파일을 Laravel 을 이용해서 웹사이트를 만드는 방법을 소개한다.
 
+```html +parse
+<x-prezet::alert
+    type="warning"
+    title="Synology NAS"
+    body="고정IP 가 물려진 Synology NAS 를 서비스한다. (사무실에서 서비스중..)"
+/>
+```
+
+문서는 Obsidian 을 이용하고, 파일 Indexing 과 OGimage 는 VScode 를 이용해서 업데이트 한다. 수정된 내용은 Synology 서버에 업로드 하면 된다.
 ## Obsidian
 
 [https://obsidian.md/](https://obsidian.md/)

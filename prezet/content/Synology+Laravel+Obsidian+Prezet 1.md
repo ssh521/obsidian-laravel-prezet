@@ -4,7 +4,9 @@ excerpt: 옵시디언에서 작성된 마크다운 파일을 Laravel 을 이용�
 category: 기본세팅
 date: 2024-12-21
 draft: false
+image: /prezet/img/ogimages/synologylaravelobsidianprezet-1.webp
 ---
+
 ## Synology NAS 작업순서
 
 Synology NAS 에서 Container Manager 를 이용해서 Laravel 컨테이너를 만들고 웹서버를 설정하고 Prezet 를 추가하는 방법을 소개한다.

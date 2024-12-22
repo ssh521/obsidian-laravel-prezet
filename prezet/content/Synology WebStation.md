@@ -1,10 +1,12 @@
 ---
 title: Synology WebStation
-excerpt: 옵시디언에서 작성된 마크다운 파일을 Laravel 을 이용해서 웹사이트를 만드는 방법을 소개한다.
-category: "\b기본세팅"
+excerpt: Synology 서버에 Obsidian 웹사이트를 설정한다.
+category: 기본세팅
 date: 2024-12-21
 draft: false
+image: /prezet/img/ogimages/synology-webstation.webp
 ---
+
 ## Web Station 웹서버 설정하기
 
 Synology NAS 에서 Container Manager 에 다운로드 한 Bitnami/Laravel 이미지를 선택하고, 웹 서비스 포털를 선택하고, 웹서버를 설정한다.
